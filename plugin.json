@@ -1,0 +1,5 @@
+{
+  "kind": "django_app",
+  "display_name": "Cloud-Upload (Nextcloud)",
+  "description": "Lädt Aufnahmen (Browser-Mix als MP3) in einen Ordner einer Nextcloud hoch. Anmeldung wie bei den Nextcloud-Apps: Adresse eingeben, im Browser anmelden, fertig."
+}
